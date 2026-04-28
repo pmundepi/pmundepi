@@ -9,11 +9,11 @@
 ╚═╝     ╚═╝     ╚═╝  PRAVEEN MUNDEPI
 ```
 
-### 💻 Software Engineer • .NET Specialist • TDD • Web API Scaling • AI-Assisted Secure Architecture
+### 💻 .NET Developer • C# • ASP.NET MVC • WPF • AI-Enhanced Development Workflows
 ### 📍 Delhi, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveenmundepi/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenmundepi@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmundepi05@gmail.com)
 
 </div>
 
@@ -21,11 +21,9 @@
 
 ## 🧑‍💻 About Me
 
-> **4+ years** of experience in the .NET ecosystem, dedicated to engineering secure, high-performance solutions for the **Healthcare and HR Tech** sectors. From architecting medical billing systems to developing dynamic HRMS platforms, I specialize in transforming complex business logic into scalable enterprise solutions.
+> **4+ years** of experience building secure, high-performance .NET solutions for the **Healthcare and HR Tech** sectors. From medical billing systems to HRMS platforms, I specialize in transforming complex business logic into scalable enterprise applications.
 
-My approach combines rigorous engineering standards—utilizing **C#, SQL Server, and Web API** patterns—with forward-thinking AI integration. By bridging the gap between traditional **Test-Driven Development (TDD)** and AI-assisted workflows, I’ve successfully **reduced manual entry errors by 25%** and **halved bug counts** through optimized code quality.
-
-I thrive at the intersection of security and speed, leveraging **Prompt Engineering and RAG patterns** to ensure enterprise systems are not only agile but future-proof.
+My approach combines strong engineering fundamentals — **C#, SQL Server, ASP.NET MVC, and Web API** — with modern AI-assisted workflows using **GitHub Copilot and Claude AI**, reducing manual entry errors by **25%** and bug counts by **50%** through rigorous code quality and optimization.
 
 ---
 
@@ -42,41 +40,50 @@ I thrive at the intersection of security and speed, leveraging **Prompt Engineer
 
 **Databases & Backend**<br>
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-**Tools & DevOps**<br>
+**AI & Tools**<br>
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logoColor=white)
+![Cursor IDE](https://img.shields.io/badge/Cursor_IDE-000000?style=flat-square&logoColor=white)
+
+**DevOps & Tools**<br>
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
 
 ---
 
 ## 💼 Work Experience
 
-### 🏥 Fidential HealthTech Services — *Software Engineer*
+### 🏥 Ace Fidential HealthTech Services — *Software Engineer*
 `May 2024 – Jul 2025` · Delhi
 
-- 🔧 Built **MedBillPro** — a WPF/.NET billing app integrated with SQL Server across 5 clinic stations
-- 📉 Reduced manual entry errors by **25%**
-- 🔐 Implemented authentication, authorization & optimized DB performance for scalability
+- 🔧 Built **MediBillPro** — WPF/.NET billing application integrated with SQL Server across 5 clinic stations
+- 📉 Reduced manual entry errors by **25%** through workflow automation and input validation
+- 🔐 Implemented role-based authentication and authorization ensuring secure access control
+- ⚡ Optimized SQL Server performance for scalability and data integrity
 
 ### 👔 Yogesher India Pvt. Ltd. — *Software Engineer*
 `Nov 2021 – May 2024` · Delhi
+*(Promoted from Associate Software Engineer)*
 
-- 🧑‍🤝‍🧑 Built **HRMS** — an HR management system with HTML, CSS, JavaScript; improved UX for entire employee lifecycle
-- ⚡ Developed a high-performance **SPA** with AngularJS
-- 📬 Integrated a **mail API** using Express.js + Node.js
-- 💰 Built **Panacea Medical Billing** — WPF client with multi-threading support; cut bug count by **50%** through code reviews & parallel programming
+- 🌐 Built and integrated **RESTful Web APIs** for HRMS platform enabling seamless frontend-backend data exchange
+- 🧑‍🤝‍🧑 Developed **HRMS** interface using HTML, CSS, JavaScript with async/await for non-blocking data access
+- 💰 Engineered **Panacea Medical Billing** — multi-threaded WPF app for concurrent multi-station processing
+- 🐛 Reduced bug count by **50%** through rigorous code reviews and parallel programming techniques
+- ⚡ Built high-performance **SPA** using AngularJS and integrated mail API with Express.js + Node.js
 
 ### 🖥️ CTech InfoSolutions Pvt. Ltd. — *SDE Trainee (Interface Support)*
 `Feb 2017 – Nov 2017` · Delhi
 
-- 🔍 Troubleshot interface issues for Health Recon, Steele Immediate Care, Resource Billing Center & Go Path labs
-- 🗃️ Handled data in MS SQL alongside senior developers
+- 🔍 Troubleshot interface issues for Health Recon, Steele Immediate Care, Resource Billing Center & Go Path Labs
+- 🗃️ Collaborated with senior developers on software support and MS SQL data handling
 
 ---
 
@@ -84,8 +91,18 @@ I thrive at the intersection of security and speed, leveraging **Prompt Engineer
 
 | Degree | University | Year |
 |--------|-----------|------|
-| 🎓 **MCA** – Master's of Computer Application | Indira Gandhi National Open University | 2023 |
-| 🎓 **BCA** – Bachelor's of Computer Application | Indira Gandhi National Open University | 2020 |
+| 🎓 **MCA** – Master of Computer Applications | Indira Gandhi National Open University | 2023 |
+| 🎓 **BCA** – Bachelor of Computer Applications | Indira Gandhi National Open University | 2020 |
+
+---
+
+## 📜 Certifications
+
+- 🤖 Foundations of Prompt Engineering — Amazon Web Services
+- 🤖 Claude Code in Action
+- 💼 Work Smarter with AI using Microsoft Copilot
+- 🌿 Git and GitHub — Step by Step
+- 🏆 **Achiever's Award '22** — Yogesher India Pvt. Ltd.
 
 ---
 
@@ -95,6 +112,6 @@ I thrive at the intersection of security and speed, leveraging **Prompt Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pmundepi&color=0e75b6&style=flat-square)
 
-⭐ *Open to .NET / Full Stack opportunities — feel free to reach out!*
+⭐ *Open to .NET Developer / Software Engineer roles in Delhi NCR — feel free to reach out!*
 
 </div>
